@@ -188,6 +188,7 @@
 - [Postbox](https://postbox-inc.com/) - The Power Email App
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. [![Open-Source Software][oss icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build) ![Freeware][freeware icon]
 - [BlueMail](https://www.bluemail.me/desktop/) - beautifully designed, powerful and easy to use email app if you're looking for cross-platform functionality.
+- [Spark Mail](https://sparkmailapp.com/) - Cross platform mail with expressive UI, free and paid tools and a built in message filter, offers a lot for free.
 
 ### Games
 
